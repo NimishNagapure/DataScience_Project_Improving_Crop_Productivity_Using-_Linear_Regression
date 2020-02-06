@@ -1,7 +1,7 @@
 # Data-Science-Project---Improving-Crop-Productivity
 Data-Science-Project---Improving-Crop-Productivity - Jupyter Notebook Code
 
-Objective
+ABSTRACT
 ---------
 * Agriculture is believed to be as backbone of Indian economic system. For the past few 
 decades, agriculture field has seen lots of technological changes to improve better productivity.
@@ -14,16 +14,16 @@ sustainable crop production. Using prediction methods, farmers can enhance the p
 * These methods are used to find the required quantity of crops, seeds, humidity, water level and other
   supplements.
 
-** KEY WORDS :- Precision Agriculture, Weka, ZeroR Algorithm, Matplotlib, Predictive Analysis.
+* KEY WORDS :- Precision Agriculture, Weka, ZeroR Algorithm, Matplotlib, Predictive Analysis.
 
 
 Proposed System
 ---------
 
-* Motivation
-    * For decrease the sufferings of people in agricultural field as like paddy culture by leaf disease detection and recognition process.
+* Data are collected for different weather conditions, soil, humidity, air quality, crop maturity,and statistics of previous few year data have taken under consideration and future will be predicted by using machine learning algorithm .
 
-* The proposal
-    * Preprocessing the input image
-    * Detection and feature extraction of individual leaf
-    * Recognition of the disease portion of paddy leaf
+* Though previous monitoring techniques gathers the crop conditions properly, prediction results have not yet been optimized. First of all, researchers do not have clear idea about crop condition and crop monitoring methods . 
+
+* They should know how to monitor crop condition on different circumstances. So crop characteristics should be well monitored by researchers to deliver good results in prediction methods.
+
+* Basically problems in predictions are finding proper algorithm for prediction methods and assuming different location results for   predictions. 
