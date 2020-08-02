@@ -26,10 +26,5 @@ Proposed System
 
 * They should know how to monitor crop condition on different circumstances. So crop characteristics should be well monitored by researchers to deliver good results in prediction methods.
 
-* Basically problems in predictions are finding proper algorithm for prediction methods and assuming different location results for   predictions. 
+* Basically problems in predictions are finding proper algorithm for prediction methods and assuming different location results for predictions. 
 
-
-Project File
----------
-
-* https://github.com/Nimish1224/Data-Science-Project---Improving-Crop-Productivity/blob/master/Project%20File.ipynb
