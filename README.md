@@ -1,5 +1,4 @@
-# Data-Science-Project---Improving-Crop-Productivity
-Data-Science-Project---Improving-Crop-Productivity - Jupyter Notebook Code
+# Predicting Crop Productivity Using Linear Regression
 
 ABSTRACT
 ---------
